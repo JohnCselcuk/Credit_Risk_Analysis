@@ -15,7 +15,7 @@ Data analysts were asked to examine credit card data from peer-to-peer lending s
 
 
 ## Results
-Credit card data from [LoanStats_2019Q1.csv](https://github.com/acfthomson/Credit_Risk_Analysis/tree/main/Resources) was cleaned prior to implementing machine learning techniques.  Null columns and rows were dropped, interest rates were converted to numerical values, and target (y-axis) columns were converted to low_risk and high_risk based on their values.
+Credit card data from LoanStats_2019Q1.csv was cleaned prior to implementing machine learning techniques.  Null columns and rows were dropped, interest rates were converted to numerical values, and target (y-axis) columns were converted to low_risk and high_risk based on their values.
 
 Once the data was cleaned, it was split into training and testing categories, which resulted in four sets of data:
 - X_train
