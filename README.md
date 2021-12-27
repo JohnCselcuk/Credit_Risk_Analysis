@@ -43,7 +43,7 @@ Naive random oversampling on this data gave the following scores:
 
 Balanced Accuracy: 0.644
 
-[class_report]([class_report](https://user-images.githubusercontent.com/85411967/147506434-24ccf06e-8f65-4d57-9798-51a2407a9b5b.PNG))
+![class_report](https://user-images.githubusercontent.com/73897240/113199045-a8a0d780-9234-11eb-86ca-1ddc7752e66f.PNG)
 
 A balanced accuracy score of 0.644 means that 35.6% of classes are incorrect and 64.4% are correct.
 
@@ -141,4 +141,8 @@ The average recall score of 0.94 means that 94% of class predictions made out of
 The oversampling, undersampling, and combination sampling algorithms' performance were relatively the same. Balanced Random Forest Classifier had a higher balanced accuracy score than the previous algorithms tested, but it was not good enough for predicting credit risk.
 
 Out of the six supervised machine learning algorithms tested, Easy Ensemble AdaBoost CLassifier performed the best overall.  It had a balanced accuracy score, along with high precision and recall scores.  It also had a high specificity score, which means this algorithm correctly determined actual negatives 91% of the time, and a high F1 score.  This means the harmonic mean of precision and recall were 0.97 out of 1.0.
+
+Thank you for your time
+
+John
 
