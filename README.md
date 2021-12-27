@@ -59,7 +59,7 @@ Once the data were balanced and trained, SMOTE oversampling gave the following s
 
 Balanced Accuracy: 0.648
 
-![imb_class_report](https://user-images.githubusercontent.com/73897240/113201885-11d61a00-9238-11eb-8762-47c4877b858b.PNG)
+[imb_class_report](https://user-images.githubusercontent.com/73897240/113201885-11d61a00-9238-11eb-8762-47c4877b858b.PNG)
 
 The balanced accuracy score for this model means that 64.8% of classes are correct and 35.2% are incorrect.
 
