@@ -13,13 +13,12 @@ Data analysts were asked to examine credit card data from peer-to-peer lending s
 ## Dependencies
 - Jupyter Notebook
 - Python v3.x
-  -  Dependencies
-      -  Numpy
-      -  Pandas
-      -  Pathlib
-      -  Collections
-      -  SKLearn
-      -  ImbalancedLearn
+-  Numpy
+-  Pandas
+-  Pathlib
+-  Collections
+-  SKLearn
+-  ImbalancedLearn
 
 
 ## Results
