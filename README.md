@@ -3,13 +3,6 @@
 ## Overview
 Data analysts were asked to examine credit card data from peer-to-peer lending services company LendingClub in order to determine credit risk. Supervised machine learning was employed to find out which model would perform the best against an unbalanced dataset. Data analysts trained and evaluated several models to predict credit risk. 
 
-
-## Resources
-- [LoanStats_2019Q1.csv](https://github.com/acfthomson/Credit_Risk_Analysis/tree/main/Resources)
-- [imbalanced-learn documentation](https://imbalanced-learn.org/stable/index.html)
-- [scikit-learn documentation](https://scikit-learn.org/stable/supervised_learning.html)
-
-
 ## Dependencies
 - Jupyter Notebook
 - Python v3.x
