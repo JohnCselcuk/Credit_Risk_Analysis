@@ -43,7 +43,7 @@ Naive random oversampling on this data gave the following scores:
 
 Balanced Accuracy: 0.644
 
-![class_report](![class_report](https://user-images.githubusercontent.com/85411967/147506434-24ccf06e-8f65-4d57-9798-51a2407a9b5b.PNG))
+[class_report]([class_report](https://user-images.githubusercontent.com/85411967/147506434-24ccf06e-8f65-4d57-9798-51a2407a9b5b.PNG))
 
 A balanced accuracy score of 0.644 means that 35.6% of classes are incorrect and 64.4% are correct.
 
