@@ -5,7 +5,7 @@ Data analysts were asked to examine credit card data from peer-to-peer lending s
 
 ## Dependencies
 - Jupyter Notebook
-- Python v3.x
+- Python 3.9.1
 -  Numpy
 -  Pandas
 -  Pathlib
